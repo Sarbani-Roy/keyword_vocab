@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DFG Subject Classification Autofill</title>
+    <style>
+        #subject {
+            display: inline-block; /* Display subject input as inline-block */
+            width: 50%;
+            padding: 8px; /* Medium-sized input field */
+        }
+        #suggestions {
+            display: inline-block; /* Display subject input as inline-block */
+            display: none;
+            position: absolute;
+            border: 1px solid #ccc;
+            width: 50%;
+            max-height: 150px; /* Allow scrolling through the suggestion box */
+            overflow-y: auto;
+            background-color: lightblue; /* Set the background color to light blue */
+        }
+        #suggestions li {
+            list-style: none;
+            padding: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Find a DFG Subject Classification</h1>
+    <form method="POST" action="/search">
+        <label for="subject">Subject Classifation:</label>
+        <input type="text" name="subject" id="subject" placeholder="Enter a subject" value="{{ user_input }}">
+        <ul id="suggestions"></ul>
+        <br>
+        <label for="subject_number">Subject Classifation Number:</label>
+        <input type="text" name="subject_number" id="subject_number" placeholder="Subject Number">
+        <br>
+        <label for="language">Language:</label>
+        <input type="text" name="language" id="language" placeholder="Language">
+    </form>
+
+    <script>
+        const subjectInput = document.getElementById('subject');
+        const subjectNumberInput = document.getElementById('subject_number');
+        const languageInput = document.getElementById('language');
+        const suggestionsList = document.getElementById('suggestions');
+
+        subjectInput.addEventListener('input', function () {
+            const user_input = subjectInput.value.toLowerCase();
+            suggestionsList.innerHTML = ''; // Clear existing suggestions
+
+            // Send an AJAX request to the server to fetch matching subjects
+            fetch(`/search?subjectInput=${user_input}`)
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(subject => {
+                        const suggestion = document.createElement('li');
+                        suggestion.textContent = subject[0];
+                        suggestion.addEventListener('click', function () {
+                            subjectInput.value = subject[0];
+                            subjectNumberInput.value = subject[1];
+                            languageInput.value = subject[2];
+                            suggestionsList.style.display = 'none'; // Hide suggestions
+                        });
+                        suggestionsList.appendChild(suggestion);
+                    });
+
+                    if (data.length > 0) {
+                        suggestionsList.style.display = 'block'; // Show suggestions
+                    } else {
+                        suggestionsList.style.display = 'none'; // Hide suggestions if no matches
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        });
+    </script>
+</body>
+</html>
