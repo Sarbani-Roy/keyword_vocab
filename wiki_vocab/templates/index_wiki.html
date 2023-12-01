@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Find a Keyword</title>
+    <style>
+        #keyword {
+            display: inline-block;
+            width: 50%;
+            padding: 8px;
+        }
+        #suggestions {
+            display: inline-block;
+            display: none;
+            position: absolute;
+            border: 1px solid #ccc;
+            width: 50%;
+            max-height: 150px;
+            overflow-y: auto;
+            background-color: lightblue;
+        }
+        #suggestions li {
+            list-style: none;
+            padding: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Find a Keyword</h1>
+    <form method="POST" action="/search">
+        <label for="keyword">Keyword:</label>
+        <input type="text" name="keyword" id="keyword" placeholder="Enter a keyword" value="{{ user_input }}">
+        <ul id="suggestions"></ul>
+        <br>
+        <label for="id">Keyword ID:</label>
+        <input type="text" name="id" id="id" placeholder="Keyword ID">
+    </form>
+    <script>
+        const keywordInput = document.getElementById('keyword');
+        const idInput = document.getElementById('id');
+        const suggestionsList = document.getElementById('suggestions');
+    
+        keywordInput.addEventListener('input', function () {
+            const user_input = keywordInput.value.toLowerCase();
+            suggestionsList.innerHTML = ''; // Clear existing suggestions
+    
+            // Send an AJAX request to the server to fetch matching keywords
+            fetch(`/search?keywordInput=${user_input}`)
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(keyword => {
+                        const suggestion = document.createElement('li');
+                        suggestion.textContent = keyword[0]; // Display only the label, not the ID
+                        suggestion.addEventListener('click', function () {
+                            keywordInput.value = keyword[0];
+                            idInput.value = keyword[1];
+                            suggestionsList.style.display = 'none'; // Hide suggestions
+                        });
+                        suggestionsList.appendChild(suggestion);
+                    });
+    
+                    if (data.length > 0) {
+                        suggestionsList.style.display = 'block'; // Show suggestions
+                    } else {
+                        suggestionsList.style.display = 'none'; // Hide suggestions if no matches
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        });
+    </script>
+    
+</body>
+</html>
