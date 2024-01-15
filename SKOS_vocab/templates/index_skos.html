@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Find a Term</title>
+    <style>
+        .input-group {
+            margin-bottom: 10px;
+            position: relative;
+        }
+        .input-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .input-group input {
+            width: 50%;
+            padding: 8px;
+        }
+        .dropdown {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            width: 50%;
+            max-height: 150px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            background-color: lightblue;
+            display: none;
+            z-index: 1;
+        }
+        .dropdown li {
+            list-style: none;
+            padding: 5px;
+            cursor: pointer;
+        }
+        .selected {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Find a Term</h1>
+    <form method="POST" action="/search">
+        <div class="input-group">
+            <label for="term">Term:</label>
+            <div class="dropdown" id="suggestions"></div>
+            <input type="text" name="term" id="term" placeholder="Enter a term" value="{{ user_input }}">
+        </div>
+        <div class="input-group">
+            <label for="id">ID:</label>
+            <input type="text" name="id" id="id" placeholder="ID">
+        </div>
+        <div class="input-group">
+            <label for="vocabulary">Vocabulary:</label>
+            <input type="text" name="vocabulary" id="vocabulary" placeholder="Vocabulary" value="SKOSMOS">
+        </div>
+        <div class="input-group">
+            <label for="vocabularyURL">Vocabulary URL:</label>
+            <input type="text" name="vocabularyURL" id="vocabularyURL" placeholder="Vocabulary URL">
+        </div>
+    </form>
+    <script>
+        const termInput = document.getElementById('term');
+        const idInput = document.getElementById('id');
+        const vocabularyInput = document.getElementById('vocabulary');
+        const vocabularyURLInput = document.getElementById('vocabularyURL');
+        const dropdown = document.getElementById('suggestions');
+        let selectedIndex = -1;
+        let data = [];
+
+        termInput.addEventListener('input', function () {
+            const user_input = termInput.value.toLowerCase();
+            fetch(`/search?termInput=${user_input}`)
+                .then(response => response.json())
+                .then(dataResponse => {
+                    data = dataResponse; // Assign data to the outer variable
+                    dropdown.innerHTML = ''; // Clear existing suggestions
+                    selectedIndex = -1; // Reset selected index
+
+                    data.forEach((term, index) => {
+                        const suggestion = document.createElement('li');
+                        suggestion.textContent = term.term; // Display only the term label
+                        suggestion.addEventListener('click', function () {
+                            termInput.value = term.term;
+                            idInput.value = term.id;
+                            vocabularyInput.value = term.vocab;
+                            vocabularyURLInput.value = term.uri;
+                            dropdown.style.display = 'none'; // Hide suggestions
+                        });
+                        suggestion.addEventListener('mouseover', function () {
+                            selectSuggestion(index);
+                        });
+                        dropdown.appendChild(suggestion);
+                    });
+
+                    if (data.length > 0) {
+                        dropdown.style.display = 'block'; // Show suggestions
+                    } else {
+                        dropdown.style.display = 'none'; // Hide suggestions if no matches
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        });
+
+        termInput.addEventListener('keydown', function (event) {
+            if (event.key === 'ArrowUp') {
+                event.preventDefault();
+                selectSuggestion(selectedIndex - 1);
+            } else if (event.key === 'ArrowDown') {
+                event.preventDefault();
+                selectSuggestion(selectedIndex + 1);
+            } else if (event.key === 'Enter') {
+                event.preventDefault();
+                const selectedSuggestion = dropdown.children[selectedIndex];
+                if (selectedSuggestion) {
+                    const term = selectedSuggestion.textContent;
+                    termInput.value = term;
+                    idInput.value = data[selectedIndex].id;
+                    vocabularyInput.value = data[selectedIndex].vocab;
+                    vocabularyURLInput.value = data[selectedIndex].uri;
+                    dropdown.style.display = 'none'; // Hide suggestions
+                }
+            }
+        });
+
+        function selectSuggestion(index) {
+            const suggestions = dropdown.children;
+            if (index < 0) {
+                index = suggestions.length - 1;
+            } else if (index >= suggestions.length) {
+                index = 0;
+            }
+
+            for (let i = 0; i < suggestions.length; i++) {
+                suggestions[i].classList.remove('selected');
+            }
+
+            selectedIndex = index;
+            suggestions[selectedIndex].classList.add('selected');
+        }
+    </script>
+</body>
+</html>

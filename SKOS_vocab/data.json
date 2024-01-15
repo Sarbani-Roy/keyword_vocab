@@ -1,0 +1,4888 @@
+[
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10945-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10945-6",
+    "prefLabel": "Technology competition",
+    "lang": "en",
+    "altLabel": "R&amp;D competition",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15928-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15928-2",
+    "prefLabel": "Race",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15931-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15931-6",
+    "prefLabel": "Ethnic relations",
+    "lang": "en",
+    "altLabel": "Race relations",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15932-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15932-4",
+    "prefLabel": "Ethnic discrimination",
+    "lang": "en",
+    "altLabel": "Racial discrimination",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11327-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11327-6",
+    "prefLabel": "Wage structure",
+    "lang": "en",
+    "altLabel": "Racial wage gap",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13209-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13209-2",
+    "prefLabel": "Wholesale trade",
+    "lang": "en",
+    "altLabel": "Rack jobbers",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15757-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15757-3",
+    "prefLabel": "Radiation effects",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12605-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12605-6",
+    "prefLabel": "Radiation protection",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30186-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30186-5",
+    "prefLabel": "Radical innovation",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11174-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11174-5",
+    "prefLabel": "Neo-Marxism",
+    "lang": "en",
+    "altLabel": "Radical political economics",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16404-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16404-3",
+    "prefLabel": "Radicalism",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12825-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12825-6",
+    "prefLabel": "Radio advertising",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29241-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29241-5",
+    "prefLabel": "Radio broadcast",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13268-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13268-0",
+    "prefLabel": "Radio engineering",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29243-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29243-1",
+    "prefLabel": "Radio industry",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18027-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18027-4",
+    "prefLabel": "Radio programme",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19529-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19529-3",
+    "prefLabel": "Radiotherapy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18501-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18501-2",
+    "prefLabel": "Rail construction",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18573-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18573-5",
+    "prefLabel": "Rail freight transport",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13527-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13527-2",
+    "prefLabel": "Rail track",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18572-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18572-0",
+    "prefLabel": "Railway company",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16166-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16166-0",
+    "prefLabel": "Railway law",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18569-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18569-3",
+    "prefLabel": "Railway occupations",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18575-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18575-1",
+    "prefLabel": "Railway policy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13523-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13523-3",
+    "prefLabel": "Railway station",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13525-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13525-6",
+    "prefLabel": "Railway tariff",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13574-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13574-0",
+    "prefLabel": "Railway technology",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13255-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13255-2",
+    "prefLabel": "Railway transport",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18315-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18315-6",
+    "prefLabel": "Tropical agriculture",
+    "lang": "en",
+    "altLabel": "Rain-fed farming",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18340-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18340-0",
+    "prefLabel": "Rainforest",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11587-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11587-1",
+    "prefLabel": "Fiscal reserves",
+    "lang": "en",
+    "altLabel": "Rainy day fund",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10424-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10424-6",
+    "prefLabel": "Optimal growth",
+    "lang": "en",
+    "altLabel": "Ramsey growth model",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19223-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19223-6",
+    "prefLabel": "Ramsey pricing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11688-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11688-2",
+    "prefLabel": "Optimal taxation",
+    "lang": "en",
+    "altLabel": "Ramsey rule",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29910-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29910-2",
+    "prefLabel": "Multi-level analysis",
+    "lang": "en",
+    "altLabel": "Random coefficient model",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15117-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15117-4",
+    "prefLabel": "Statistical error",
+    "lang": "en",
+    "altLabel": "Random error",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29864-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29864-4",
+    "prefLabel": "Random sample",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15176-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15176-2",
+    "prefLabel": "Random variable",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19572-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19572-2",
+    "prefLabel": "Random walk",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30223-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30223-4",
+    "prefLabel": "Randomized controlled trial",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15330-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15330-4",
+    "prefLabel": "Correlation",
+    "lang": "en",
+    "altLabel": "Rank correlation",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15320-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15320-0",
+    "prefLabel": "Ranking method",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14078-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14078-0",
+    "prefLabel": "Rapeseed",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18576-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18576-6",
+    "prefLabel": "Urban rail transit",
+    "lang": "en",
+    "altLabel": "Rapid transit line",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10282-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10282-0",
+    "prefLabel": "Income hypothesis",
+    "lang": "en",
+    "altLabel": "Ratchet effect",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11774-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11774-2",
+    "prefLabel": "Rate of profit",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19433-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19433-2",
+    "prefLabel": "Incentive regulation",
+    "lang": "en",
+    "altLabel": "Rate-of-return regulation",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12040-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12040-0",
+    "prefLabel": "Evaluation",
+    "lang": "en",
+    "altLabel": "Rating",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29634-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29634-0",
+    "prefLabel": "Rating agency",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10056-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10056-2",
+    "prefLabel": "Rational expectations",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16721-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16721-5",
+    "prefLabel": "Rationalism",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15860-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15860-3",
+    "prefLabel": "Rationality",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10463-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10463-3",
+    "prefLabel": "Rationalization",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11034-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11034-0",
+    "prefLabel": "Rationing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15753-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15753-4",
+    "prefLabel": "Raw material supply",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14047-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14047-4",
+    "prefLabel": "Raw materials",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10093-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10093-3",
+    "prefLabel": "Rawls's theory of justice",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30255-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30255-5",
+    "prefLabel": "RCEP countries",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18368-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18368-6",
+    "prefLabel": "Nuclear safety",
+    "lang": "en",
+    "altLabel": "Reactor safety",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29442-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29442-2",
+    "prefLabel": "Reading",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14927-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14927-2",
+    "prefLabel": "Convenience food",
+    "lang": "en",
+    "altLabel": "Ready meal",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10377-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10377-3",
+    "prefLabel": "Supply-side policies",
+    "lang": "en",
+    "altLabel": "Reaganomics",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10263-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10263-4",
+    "prefLabel": "Wealth effect",
+    "lang": "en",
+    "altLabel": "Real balance effect",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19239-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19239-5",
+    "prefLabel": "Real business cycle model",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12029-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12029-2",
+    "prefLabel": "Real estate",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29662-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29662-2",
+    "prefLabel": "Real estate appraisal",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12025-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12025-3",
+    "prefLabel": "Real estate brokers",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29902-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29902-1",
+    "prefLabel": "Real estate developer",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29859-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29859-4",
+    "prefLabel": "Real estate economics",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18750-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18750-2",
+    "prefLabel": "Real estate finance",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13704-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13704-6",
+    "prefLabel": "Real estate fund",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18747-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18747-5",
+    "prefLabel": "Real estate industry",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29708-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29708-4",
+    "prefLabel": "Real estate insurance",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18505-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18505-1",
+    "prefLabel": "Real estate investment",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12028-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12028-4",
+    "prefLabel": "Real estate law",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12030-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12030-3",
+    "prefLabel": "Real estate leasing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13775-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13775-4",
+    "prefLabel": "Mortgage",
+    "lang": "en",
+    "altLabel": "Real estate loan",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12027-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12027-6",
+    "prefLabel": "Real estate management",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12031-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12031-1",
+    "prefLabel": "Real estate market",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18745-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18745-2",
+    "prefLabel": "Real estate price",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12023-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12023-0",
+    "prefLabel": "Real estate speculation",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30433-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30433-0",
+    "prefLabel": "Real estate transfer",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10659-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10659-0",
+    "prefLabel": "Purchasing power parity",
+    "lang": "en",
+    "altLabel": "Real exchange rate",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10129-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10129-1",
+    "prefLabel": "Real interest rate",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/20301-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/20301-2",
+    "prefLabel": "Real options analysis",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12026-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12026-1",
+    "prefLabel": "Real property",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11659-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11659-2",
+    "prefLabel": "Real property tax",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11658-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11658-4",
+    "prefLabel": "Real property transfer tax",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11330-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11330-3",
+    "prefLabel": "Real wages",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29917-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29917-2",
+    "prefLabel": "Heterodox economics",
+    "lang": "en",
+    "altLabel": "Real world economics",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15616-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15616-0",
+    "prefLabel": "Computer operations",
+    "lang": "en",
+    "altLabel": "Real-time operation",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10040-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10040-3",
+    "prefLabel": "Allocation",
+    "lang": "en",
+    "altLabel": "Reallocation",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12788-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12788-0",
+    "prefLabel": "Rebate",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12368-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12368-1",
+    "prefLabel": "Accounts receivable",
+    "lang": "en",
+    "altLabel": "Receivables",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12241-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12241-4",
+    "prefLabel": "Receivables financing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10338-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10338-6",
+    "prefLabel": "Business cycle",
+    "lang": "en",
+    "altLabel": "Recession",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/25974-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/25974-3",
+    "prefLabel": "Social exchange theory",
+    "lang": "en",
+    "altLabel": "Reciprocal behaviour",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12837-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12837-6",
+    "prefLabel": "Advertising effects",
+    "lang": "en",
+    "altLabel": "Recognition test",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29228-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29228-4",
+    "prefLabel": "Personalization",
+    "lang": "en",
+    "altLabel": "Recommendation system",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30324-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30324-5",
+    "prefLabel": "Next Generation EU",
+    "lang": "en",
+    "altLabel": "Recovery and resilience facility",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11850-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11850-5",
+    "prefLabel": "Tourism destination",
+    "lang": "en",
+    "altLabel": "Recreation area",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19780-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19780-2",
+    "prefLabel": "Recreational fishing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14442-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14442-5",
+    "prefLabel": "Motorhome",
+    "lang": "en",
+    "altLabel": "Recreational vehicle",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12573-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12573-0",
+    "prefLabel": "Recruitment",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13384-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13384-5",
+    "prefLabel": "Recruitment services",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15375-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15375-3",
+    "prefLabel": "Multiple equation model",
+    "lang": "en",
+    "altLabel": "Recursive simultaneous equation model",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13324-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13324-2",
+    "prefLabel": "Recycling",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19630-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19630-0",
+    "prefLabel": "Wildlife conservation",
+    "lang": "en",
+    "altLabel": "Red list of threatened animals",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11770-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11770-3",
+    "prefLabel": "Redistribution",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11779-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11779-6",
+    "prefLabel": "Distributive policy",
+    "lang": "en",
+    "altLabel": "Redistribution policy",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/21082-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/21082-4",
+    "prefLabel": "Distributional effect",
+    "lang": "en",
+    "altLabel": "Redistributive effect",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19003-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19003-6",
+    "prefLabel": "Redundancy pay",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12575-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12575-3",
+    "prefLabel": "Redundancy scheme",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11389-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11389-5",
+    "prefLabel": "Labour market integration",
+    "lang": "en",
+    "altLabel": "Reemployment",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30378-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30378-3",
+    "prefLabel": "Peer review",
+    "lang": "en",
+    "altLabel": "Referee-system",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16797-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16797-0",
+    "prefLabel": "Reference work",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16311-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16311-3",
+    "prefLabel": "Referendum",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29814-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29814-5",
+    "prefLabel": "Viral marketing",
+    "lang": "en",
+    "altLabel": "Referral marketing",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13763-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13763-4",
+    "prefLabel": "Refinancing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18336-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18336-5",
+    "prefLabel": "Afforestation",
+    "lang": "en",
+    "altLabel": "Reforestation",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19036-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19036-5",
+    "prefLabel": "Reform",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14772-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14772-5",
+    "prefLabel": "Advanced ceramics",
+    "lang": "en",
+    "altLabel": "Refractory",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14509-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14509-6",
+    "prefLabel": "Refrigerator",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15919-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15919-3",
+    "prefLabel": "Refugees",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15011-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15011-6",
+    "prefLabel": "Product recovery",
+    "lang": "en",
+    "altLabel": "Refurbishing",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19570-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19570-6",
+    "prefLabel": "Structural break",
+    "lang": "en",
+    "altLabel": "Regime switching",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11857-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11857-5",
+    "prefLabel": "Region",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18808-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18808-4",
+    "prefLabel": "Regional administration",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18608-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18608-5",
+    "prefLabel": "Regional air transport",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13708-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13708-5",
+    "prefLabel": "Regional bank",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18937-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18937-0",
+    "prefLabel": "Regional broadcast",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19240-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19240-6",
+    "prefLabel": "Regional business cycle",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19829-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19829-5",
+    "prefLabel": "Regional business growth programme",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19246-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19246-1",
+    "prefLabel": "Regional change",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29061-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29061-0",
+    "prefLabel": "Regional cluster",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16297-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16297-6",
+    "prefLabel": "Decentralization",
+    "lang": "en",
+    "altLabel": "Regional decentralization",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11895-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11895-4",
+    "prefLabel": "Regional development",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19438-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19438-6",
+    "prefLabel": "Spatial distribution",
+    "lang": "en",
+    "altLabel": "Regional disparity",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18181-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18181-1",
+    "prefLabel": "Regional economic integration",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11909-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11909-5",
+    "prefLabel": "Regional economic potential",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11910-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11910-6",
+    "prefLabel": "Regional economic structure",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11912-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11912-2",
+    "prefLabel": "Regional economics",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11907-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11907-2",
+    "prefLabel": "Spatial effect",
+    "lang": "en",
+    "altLabel": "Regional effect",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19272-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19272-0",
+    "prefLabel": "Regional financial sector",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16324-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16324-1",
+    "prefLabel": "Regional government",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19370-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19370-0",
+    "prefLabel": "State government finance",
+    "lang": "en",
+    "altLabel": "Regional government finance",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11943-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11943-5",
+    "prefLabel": "Regional growth",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10426-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10426-2",
+    "prefLabel": "Regional growth theory",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11872-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11872-2",
+    "prefLabel": "Regional income distribution",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11959-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11959-4",
+    "prefLabel": "Regional input-output analysis",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11207-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11207-2",
+    "prefLabel": "Regional labour market",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19492-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19492-0",
+    "prefLabel": "Regional labour mobility",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11929-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11929-6",
+    "prefLabel": "Regional multiplier",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11900-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11900-2",
+    "prefLabel": "Regional planning",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16552-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16552-2",
+    "prefLabel": "Regional policy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11894-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11894-6",
+    "prefLabel": "Regional population dynamics",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19713-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19713-3",
+    "prefLabel": "Middle power",
+    "lang": "en",
+    "altLabel": "Regional power",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19224-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19224-4",
+    "prefLabel": "Regional price index",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19447-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19447-5",
+    "prefLabel": "Regional revitalization",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11951-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11951-6",
+    "prefLabel": "Regional science",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11206-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11206-4",
+    "prefLabel": "Regional specialization",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11962-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11962-1",
+    "prefLabel": "Regional statistics",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11876-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11876-1",
+    "prefLabel": "Regional transport",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19440-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19440-5",
+    "prefLabel": "Regional wage structure",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13402-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13402-1",
+    "prefLabel": "Association",
+    "lang": "en",
+    "altLabel": "Registered association",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12232-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12232-5",
+    "prefLabel": "Share",
+    "lang": "en",
+    "altLabel": "Registered share",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15340-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15340-1",
+    "prefLabel": "Regression analysis",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29946-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29946-2",
+    "prefLabel": "Generalized linear model",
+    "lang": "en",
+    "altLabel": "Regression with censored data",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15468-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15468-3",
+    "prefLabel": "Decision under uncertainty",
+    "lang": "en",
+    "altLabel": "Regret theory",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19902-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19902-0",
+    "prefLabel": "Employment system",
+    "lang": "en",
+    "altLabel": "Regular employment",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10894-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10894-4",
+    "prefLabel": "Regulation",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/20289-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/20289-1",
+    "prefLabel": "Regulation school",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18810-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18810-3",
+    "prefLabel": "Regulatory agency",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16541-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16541-0",
+    "prefLabel": "Rehabilitation",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/28834-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/28834-4",
+    "prefLabel": "Rehabilitation hospital",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14141-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14141-5",
+    "prefLabel": "Reindeer",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30371-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30371-3",
+    "prefLabel": "Reindustrialization",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13296-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13296-2",
+    "prefLabel": "Reinsurance",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12294-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12294-4",
+    "prefLabel": "Reinvestment",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16037-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16037-4",
+    "prefLabel": "Copyright law",
+    "lang": "en",
+    "altLabel": "Related rights",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19214-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19214-0",
+    "prefLabel": "Incomplete contract",
+    "lang": "en",
+    "altLabel": "Relational contract",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30007-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30007-3",
+    "prefLabel": "Relational economic geography",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29643-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29643-6",
+    "prefLabel": "Relationship lending",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19133-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19133-0",
+    "prefLabel": "Relationship marketing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19225-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19225-2",
+    "prefLabel": "Relative price",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30244-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30244-3",
+    "prefLabel": "Technical analysis",
+    "lang": "en",
+    "altLabel": "Relative strength index",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15938-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15938-6",
+    "prefLabel": "Family",
+    "lang": "en",
+    "altLabel": "Relatives",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10949-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10949-5",
+    "prefLabel": "Market definition",
+    "lang": "en",
+    "altLabel": "Relevant market",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19605-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19605-6",
+    "prefLabel": "Duration analysis",
+    "lang": "en",
+    "altLabel": "Reliability analysis",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15671-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15671-6",
+    "prefLabel": "Religion",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13399-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13399-6",
+    "prefLabel": "Religious community",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19737-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19737-3",
+    "prefLabel": "Religious order",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19706-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19706-0",
+    "prefLabel": "Religious policy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15678-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15678-6",
+    "prefLabel": "Religious studies",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30406-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30406-3",
+    "prefLabel": "Onshoring",
+    "lang": "en",
+    "altLabel": "Relocation of production",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19360-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19360-3",
+    "prefLabel": "Remittances",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11855-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11855-2",
+    "prefLabel": "Periphery",
+    "lang": "en",
+    "altLabel": "Remote area",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11371-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11371-3",
+    "prefLabel": "Distance learning",
+    "lang": "en",
+    "altLabel": "Remote learning",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13684-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13684-0",
+    "prefLabel": "Satellite communications",
+    "lang": "en",
+    "altLabel": "Remote Sensing",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12699-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12699-6",
+    "prefLabel": "Maintenance policy",
+    "lang": "en",
+    "altLabel": "Remote services",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18112-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18112-6",
+    "prefLabel": "Telework",
+    "lang": "en",
+    "altLabel": "Remote work",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11322-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11322-2",
+    "prefLabel": "Wages",
+    "lang": "en",
+    "altLabel": "Remuneration",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11341-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11341-5",
+    "prefLabel": "Compensation system",
+    "lang": "en",
+    "altLabel": "Remuneration system",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18024-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18024-3",
+    "prefLabel": "Renewable energy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18362-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18362-4",
+    "prefLabel": "Renewable energy policy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30408-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30408-6",
+    "prefLabel": "Green hydrogen",
+    "lang": "en",
+    "altLabel": "Renewable hydrogen",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18286-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18286-1",
+    "prefLabel": "Renewable resources",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29675-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29675-0",
+    "prefLabel": "Renminbi",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13837-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13837-1",
+    "prefLabel": "Rent",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18755-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18755-6",
+    "prefLabel": "Rent policy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18155-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18155-2",
+    "prefLabel": "Rent seeking",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13839-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13839-4",
+    "prefLabel": "Rental housing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12868-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12868-2",
+    "prefLabel": "Reorganization tax",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12923-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12923-6",
+    "prefLabel": "Repair services",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11573-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11573-5",
+    "prefLabel": "Reparations",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19401-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19401-1",
+    "prefLabel": "Repayment",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15460-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15460-5",
+    "prefLabel": "Repeated games",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12427-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12427-4",
+    "prefLabel": "Market value",
+    "lang": "en",
+    "altLabel": "Replacement costs",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15571-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15571-3",
+    "prefLabel": "Inventory model",
+    "lang": "en",
+    "altLabel": "Replenishment systems",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29686-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29686-2",
+    "prefLabel": "Key rate",
+    "lang": "en",
+    "altLabel": "Repo rate",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13762-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13762-6",
+    "prefLabel": "Repo transactions",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12164-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12164-3",
+    "prefLabel": "Reporting",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29861-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29861-3",
+    "prefLabel": "Reptiles",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30061-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30061-4",
+    "prefLabel": "Republic",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/17567-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/17567-5",
+    "prefLabel": "Taiwan",
+    "lang": "en",
+    "altLabel": "Republic of China",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/17413-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/17413-4",
+    "prefLabel": "Ireland",
+    "lang": "en",
+    "altLabel": "Republic of Ireland",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/17570-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/17570-2",
+    "prefLabel": "South Korea",
+    "lang": "en",
+    "altLabel": "Republic of Korea",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19758-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19758-2",
+    "prefLabel": "Reputation",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11576-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11576-6",
+    "prefLabel": "Competitive tendering",
+    "lang": "en",
+    "altLabel": "Request for proposal",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18766-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18766-1",
+    "prefLabel": "Software development",
+    "lang": "en",
+    "altLabel": "Requirements engineering",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10931-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10931-3",
+    "prefLabel": "Resale price maintenance",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19568-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19568-0",
+    "prefLabel": "Resampling method",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10436-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10436-6",
+    "prefLabel": "Research",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19584-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19584-2",
+    "prefLabel": "Research and development statistics",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18775-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18775-0",
+    "prefLabel": "Research collaboration",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29614-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29614-6",
+    "prefLabel": "Research data",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29986-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29986-4",
+    "prefLabel": "Research evaluation",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18785-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18785-4",
+    "prefLabel": "Research expenditure",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18784-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18784-6",
+    "prefLabel": "Research funding",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13343-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13343-5",
+    "prefLabel": "Research institute",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16727-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16727-0",
+    "prefLabel": "Scientific method",
+    "lang": "en",
+    "altLabel": "Research method",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10437-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10437-4",
+    "prefLabel": "Technology policy",
+    "lang": "en",
+    "altLabel": "Research policy",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13349-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13349-0",
+    "prefLabel": "Scientists",
+    "lang": "en",
+    "altLabel": "Researchers",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30365-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30365-5",
+    "prefLabel": "Reservation (Ethnic group)",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/24623-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/24623-2",
+    "prefLabel": "Reservation wage",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10774-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10774-0",
+    "prefLabel": "Central bank",
+    "lang": "en",
+    "altLabel": "Reserve bank",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10754-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10754-6",
+    "prefLabel": "Reserve currency",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11484-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11484-4",
+    "prefLabel": "Reserve requirements",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12296-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12296-0",
+    "prefLabel": "Reserves for contingencies",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15958-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15958-0",
+    "prefLabel": "Resettlement",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13310-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13310-6",
+    "prefLabel": "Nursing home",
+    "lang": "en",
+    "altLabel": "Residential care",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29563-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29563-4",
+    "prefLabel": "Residential choice",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12932-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12932-5",
+    "prefLabel": "Residential construction",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29593-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29593-2",
+    "prefLabel": "Space heating",
+    "lang": "en",
+    "altLabel": "Residential heating",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13312-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13312-2",
+    "prefLabel": "Residential institution",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13862-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13862-2",
+    "prefLabel": "Residential location",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13867-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13867-6",
+    "prefLabel": "Residential mobility",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13840-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13840-5",
+    "prefLabel": "Homeownership",
+    "lang": "en",
+    "altLabel": "Residential property",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18749-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18749-1",
+    "prefLabel": "Residential real estate",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13861-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13861-4",
+    "prefLabel": "Housing sociology",
+    "lang": "en",
+    "altLabel": "Residential satisfaction",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29658-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29658-0",
+    "prefLabel": "Residual income",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30343-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30343-1",
+    "prefLabel": "Resilience",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16396-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16396-4",
+    "prefLabel": "Political resistance",
+    "lang": "en",
+    "altLabel": "Resistance movement",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/27199-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/27199-2",
+    "prefLabel": "Resource dependence approach",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15754-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15754-2",
+    "prefLabel": "Resource deposit",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18381-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18381-0",
+    "prefLabel": "Resource economics",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29567-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29567-3",
+    "prefLabel": "Eco-efficiency",
+    "lang": "en",
+    "altLabel": "Resource efficiency",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15752-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15752-6",
+    "prefLabel": "Resource policy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18129-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18129-3",
+    "prefLabel": "Substitute goods",
+    "lang": "en",
+    "altLabel": "Resource substitution",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11675-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11675-4",
+    "prefLabel": "Resource tax",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19245-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19245-3",
+    "prefLabel": "Resource wealth",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/27185-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/27185-6",
+    "prefLabel": "Resource-based view",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12922-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12922-1",
+    "prefLabel": "Resources sector",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19733-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19733-4",
+    "prefLabel": "Responsibility",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10211-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10211-2",
+    "prefLabel": "Demand-side management",
+    "lang": "en",
+    "altLabel": "Responsive capacity pricing",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13306-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13306-4",
+    "prefLabel": "Restaurant industry",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10942-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10942-5",
+    "prefLabel": "Restraints of competition",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10126-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10126-0",
+    "prefLabel": "Capital theory",
+    "lang": "en",
+    "altLabel": "Reswitching phenomenon",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13970-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13970-6",
+    "prefLabel": "Retail and wholesale occupations",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13474-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13474-4",
+    "prefLabel": "Retail assortment",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19556-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19556-0",
+    "prefLabel": "Personal banking",
+    "lang": "en",
+    "altLabel": "Retail banking",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13457-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13457-4",
+    "prefLabel": "Retail chain",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18527-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18527-5",
+    "prefLabel": "Retail format",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13239-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13239-0",
+    "prefLabel": "Filling station",
+    "lang": "en",
+    "altLabel": "Retail gasoline station",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18546-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18546-1",
+    "prefLabel": "Retail location",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18531-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18531-0",
+    "prefLabel": "Retail management",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18532-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18532-5",
+    "prefLabel": "Retail marketing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19136-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19136-1",
+    "prefLabel": "Retail outlet",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18555-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18555-0",
+    "prefLabel": "Retail price",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15088-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15088-6",
+    "prefLabel": "Consumer price index",
+    "lang": "en",
+    "altLabel": "Retail price index",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13460-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13460-1",
+    "prefLabel": "Retail research",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13465-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13465-5",
+    "prefLabel": "Distributive trade statistics",
+    "lang": "en",
+    "altLabel": "Retail statistics",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13200-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13200-6",
+    "prefLabel": "Retail trade",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/24706-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/24706-5",
+    "prefLabel": "Loyalty program",
+    "lang": "en",
+    "altLabel": "Retailer coupons",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12668-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12668-3",
+    "prefLabel": "Cooperative purchasing",
+    "lang": "en",
+    "altLabel": "Retailers' cooperative",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16526-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16526-3",
+    "prefLabel": "Retirement",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16540-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16540-2",
+    "prefLabel": "Pension policy",
+    "lang": "en",
+    "altLabel": "Retirement income policy",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16527-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16527-1",
+    "prefLabel": "Retirement provision",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11390-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11390-6",
+    "prefLabel": "Retraining",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15956-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15956-4",
+    "prefLabel": "Return migration",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12487-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12487-0",
+    "prefLabel": "Return on investment",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12786-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12786-4",
+    "prefLabel": "Customer service",
+    "lang": "en",
+    "altLabel": "Returns management",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19516-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19516-5",
+    "prefLabel": "Returns to education",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10332-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10332-4",
+    "prefLabel": "Returns to scale",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18062-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18062-2",
+    "prefLabel": "National unity",
+    "lang": "en",
+    "altLabel": "Reunification",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30337-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30337-3",
+    "prefLabel": "Reusable packaging",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10641-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10641-5",
+    "prefLabel": "Comparative advantage",
+    "lang": "en",
+    "altLabel": "Revealed comparative advantage",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10162-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10162-3",
+    "prefLabel": "Revealed preferences",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12311-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12311-2",
+    "prefLabel": "Revenue",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29785-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29785-0",
+    "prefLabel": "Revenue equivalence theorem",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/20206-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/20206-3",
+    "prefLabel": "Revenue management",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29635-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29635-5",
+    "prefLabel": "Structured product",
+    "lang": "en",
+    "altLabel": "Reverse convertibles",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18962-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18962-1",
+    "prefLabel": "Reverse logistics",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29630-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29630-1",
+    "prefLabel": "Reverse mortgage",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19278-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19278-2",
+    "prefLabel": "Stock split",
+    "lang": "en",
+    "altLabel": "Reverse split",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16286-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16286-4",
+    "prefLabel": "Political unrest",
+    "lang": "en",
+    "altLabel": "Revolts",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12250-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12250-3",
+    "prefLabel": "Revolving credit",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29231-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29231-1",
+    "prefLabel": "RFID",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19776-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19776-0",
+    "prefLabel": "Rhetoric",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30030-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30030-1",
+    "prefLabel": "Economic terminology",
+    "lang": "en",
+    "altLabel": "Rhetoric of economics",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11059-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11059-5",
+    "prefLabel": "Social market economy",
+    "lang": "en",
+    "altLabel": "Rhineland capitalism",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16909-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16909-1",
+    "prefLabel": "Rhineland-Palatinate",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18156-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18156-0",
+    "prefLabel": "Ricardian equivalence",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11071-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11071-1",
+    "prefLabel": "Labour theory of value",
+    "lang": "en",
+    "altLabel": "Ricardo's theory of value",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14095-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14095-0",
+    "prefLabel": "Rice",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19297-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19297-5",
+    "prefLabel": "Rice market",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19298-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19298-3",
+    "prefLabel": "Rice policy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19300-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19300-0",
+    "prefLabel": "Rice price",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18197-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18197-0",
+    "prefLabel": "Rice production",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30394-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30394-5",
+    "prefLabel": "Private assets",
+    "lang": "en",
+    "altLabel": "Riches",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18584-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18584-0",
+    "prefLabel": "Taxi industry",
+    "lang": "en",
+    "altLabel": "Rickshaws",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19323-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19323-2",
+    "prefLabel": "Right of establishment",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15994-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15994-3",
+    "prefLabel": "Freedom of movement",
+    "lang": "en",
+    "altLabel": "Right of residence",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15961-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15961-4",
+    "prefLabel": "Freedom of information",
+    "lang": "en",
+    "altLabel": "Right to know",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16299-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16299-2",
+    "prefLabel": "Nation",
+    "lang": "en",
+    "altLabel": "Right to self-determination",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16011-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16011-1",
+    "prefLabel": "Right to work",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16372-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16372-4",
+    "prefLabel": "Nationalist party",
+    "lang": "en",
+    "altLabel": "Right-wing party",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12239-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12239-5",
+    "prefLabel": "Shareholder rights",
+    "lang": "en",
+    "altLabel": "Rights issue",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/16729-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/16729-3",
+    "prefLabel": "Theory-practice divide",
+    "lang": "en",
+    "altLabel": "Rigor-relevance gap",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10057-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10057-0",
+    "prefLabel": "Risk",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15480-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15480-6",
+    "prefLabel": "Risk attitude",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15477-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15477-2",
+    "prefLabel": "Risk aversion",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29661-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29661-4",
+    "prefLabel": "Risk communication",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/27621-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/27621-5",
+    "prefLabel": "Risk control",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18118-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18118-1",
+    "prefLabel": "Risk management",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19828-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19828-0",
+    "prefLabel": "Risk measure",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13826-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13826-6",
+    "prefLabel": "Risk model",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15479-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15479-5",
+    "prefLabel": "Risk neutrality",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19274-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19274-3",
+    "prefLabel": "Risk premium",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15478-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15478-0",
+    "prefLabel": "Risk seeking",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29691-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29691-2",
+    "prefLabel": "Equity premium puzzle",
+    "lang": "en",
+    "altLabel": "Risk-free rate puzzle",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/29647-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/29647-5",
+    "prefLabel": "Risk-return tradeoff",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15868-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15868-1",
+    "prefLabel": "River",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13560-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13560-4",
+    "prefLabel": "Road",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13572-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13572-4",
+    "prefLabel": "Traffic accident",
+    "lang": "en",
+    "altLabel": "Road accident",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13564-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13564-3",
+    "prefLabel": "Traffic congestion",
+    "lang": "en",
+    "altLabel": "Road congestion",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13176-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13176-5",
+    "prefLabel": "Road construction",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13561-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13561-2",
+    "prefLabel": "Road financing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13244-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13244-0",
+    "prefLabel": "Road freight transport",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30329-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30329-2",
+    "prefLabel": "Road network",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18583-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18583-2",
+    "prefLabel": "Road pricing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13570-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13570-1",
+    "prefLabel": "Traffic safety",
+    "lang": "en",
+    "altLabel": "Road safety",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13470-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13470-5",
+    "prefLabel": "Itinerant trade",
+    "lang": "en",
+    "altLabel": "Road show",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13569-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13569-0",
+    "prefLabel": "Traffic law",
+    "lang": "en",
+    "altLabel": "Road traffic law",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13563-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13563-5",
+    "prefLabel": "Road transport",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30057-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30057-2",
+    "prefLabel": "Theft",
+    "lang": "en",
+    "altLabel": "Robbery",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10418-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10418-1",
+    "prefLabel": "Post-Keynesian growth model",
+    "lang": "en",
+    "altLabel": "Robinson's growth model",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12737-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12737-3",
+    "prefLabel": "Robot",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18414-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18414-4",
+    "prefLabel": "Robot industry",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15062-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15062-3",
+    "prefLabel": "Robust statistics",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30101-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30101-4",
+    "prefLabel": "Rocky Mountains",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15807-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15807-0",
+    "prefLabel": "Social role",
+    "lang": "en",
+    "altLabel": "Role model",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13530-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13530-6",
+    "prefLabel": "Ferry shipping",
+    "lang": "en",
+    "altLabel": "Roll-on roll-off ferry",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/12907-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/12907-4",
+    "prefLabel": "Leisure industries",
+    "lang": "en",
+    "altLabel": "Roller coaster",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13029-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13029-4",
+    "prefLabel": "Steel industry",
+    "lang": "en",
+    "altLabel": "Rolling mills",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14428-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14428-6",
+    "prefLabel": "Rolling stock",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13063-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13063-4",
+    "prefLabel": "Rolling stock manufacturing",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15689-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15689-1",
+    "prefLabel": "Ancient history",
+    "lang": "en",
+    "altLabel": "Roman Empire",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/17177-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/17177-4",
+    "prefLabel": "Romania",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/26622-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/26622-1",
+    "prefLabel": "Romanian",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/26631-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/26631-0",
+    "prefLabel": "Romanians",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15935-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15935-5",
+    "prefLabel": "Romany people",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13109-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13109-6",
+    "prefLabel": "Woodworking trade",
+    "lang": "en",
+    "altLabel": "Roofing trade",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10537-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10537-0",
+    "prefLabel": "Stages of growth model",
+    "lang": "en",
+    "altLabel": "Rostow's stages of growth model",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18673-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18673-1",
+    "prefLabel": "Informal finance",
+    "lang": "en",
+    "altLabel": "Rotating savings and credit association",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15518-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15518-0",
+    "prefLabel": "Vehicle routing problem",
+    "lang": "en",
+    "altLabel": "Routing problem",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11543-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11543-0",
+    "prefLabel": "Charges",
+    "lang": "en",
+    "altLabel": "Royalties",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10789-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10789-1",
+    "prefLabel": "Financial clearing",
+    "lang": "en",
+    "altLabel": "RTGS payment system",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14151-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14151-2",
+    "prefLabel": "Rubber",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13004-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13004-6",
+    "prefLabel": "Rubber industry",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19366-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19366-5",
+    "prefLabel": "Rubber market",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19365-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19365-0",
+    "prefLabel": "Natural rubber production",
+    "lang": "en",
+    "altLabel": "Rubber plantation",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14817-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14817-2",
+    "prefLabel": "Rubber product",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19332-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19332-1",
+    "prefLabel": "Ruble",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15643-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15643-4",
+    "prefLabel": "Football",
+    "lang": "en",
+    "altLabel": "Rugby",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/30112-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/30112-6",
+    "prefLabel": "Ruhr district",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/15974-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/15974-2",
+    "prefLabel": "Rule of law",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11710-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11710-0",
+    "prefLabel": "Rules of origin",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10398-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10398-2",
+    "prefLabel": "Rules versus discretion",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10503-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10503-3",
+    "prefLabel": "Rural area",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13702-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13702-3",
+    "prefLabel": "Agricultural bank",
+    "lang": "en",
+    "altLabel": "Rural bank",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11862-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11862-5",
+    "prefLabel": "Village",
+    "lang": "en",
+    "altLabel": "Rural community",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13429-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13429-2",
+    "prefLabel": "Agricultural cooperative",
+    "lang": "en",
+    "altLabel": "Rural cooperative",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13430-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13430-3",
+    "prefLabel": "Agricultural credit",
+    "lang": "en",
+    "altLabel": "Rural credit",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10575-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10575-6",
+    "prefLabel": "Rural development",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10523-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10523-4",
+    "prefLabel": "Development planning",
+    "lang": "en",
+    "altLabel": "Rural development program",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19460-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19460-6",
+    "prefLabel": "Rural economy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18865-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18865-6",
+    "prefLabel": "Rural education",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18358-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18358-2",
+    "prefLabel": "Rural energy",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19273-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19273-5",
+    "prefLabel": "Rural financial sector",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19465-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19465-3",
+    "prefLabel": "Rural health care",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18982-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18982-2",
+    "prefLabel": "Rural income",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19464-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19464-5",
+    "prefLabel": "Rural industry",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19463-0",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19463-0",
+    "prefLabel": "Rural infrastructure",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19462-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19462-2",
+    "prefLabel": "Rural labour market",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13454-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13454-3",
+    "prefLabel": "Rural population",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/19362-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/19362-6",
+    "prefLabel": "Rural poverty",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11809-2",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11809-2",
+    "prefLabel": "Agrarian reform",
+    "lang": "en",
+    "altLabel": "Rural reform",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/18993-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/18993-4",
+    "prefLabel": "Rural small business",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13425-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13425-3",
+    "prefLabel": "Agrarian society",
+    "lang": "en",
+    "altLabel": "Rural society",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13445-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13445-4",
+    "prefLabel": "Rural sociology",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/13635-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/13635-6",
+    "prefLabel": "Rural tourism",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11276-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11276-4",
+    "prefLabel": "Agricultural workers",
+    "lang": "en",
+    "altLabel": "Rural workers",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10504-1",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10504-1",
+    "prefLabel": "Rural-urban migration",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/11993-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/11993-4",
+    "prefLabel": "Rural-urban relations",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/17534-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/17534-6",
+    "prefLabel": "Russia",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/26641-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/26641-4",
+    "prefLabel": "Russian",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/26623-6",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/26623-6",
+    "prefLabel": "Russians",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/17738-4",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/17738-4",
+    "prefLabel": "Rwanda",
+    "lang": "en",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/10637-3",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/10637-3",
+    "prefLabel": "Factor proportions",
+    "lang": "en",
+    "altLabel": "Rybczynski theorem",
+    "vocab": "stw"
+  },
+  {
+    "uri": "http://zbw.eu/stw/descriptor/14096-5",
+    "type": [
+      "skos:Concept",
+      "http://zbw.eu/namespaces/zbw-extensions/Descriptor"
+    ],
+    "localname": "descriptor/14096-5",
+    "prefLabel": "Rye",
+    "lang": "en",
+    "vocab": "stw"
+  }
+]
